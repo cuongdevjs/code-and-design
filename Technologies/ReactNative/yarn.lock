@@ -24,6 +24,11 @@
   dependencies:
     symbol-observable "^1.2.0"
 
+"@snyk/protect@^1.1012.0":
+  version "1.1012.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1012.0.tgz#60fbfdf08437fd2b4ad96001a80cab25871c2515"
+  integrity sha512-FetJA4igmHDYLcxq0dvSolgCWBAWvut1lhY8aDbwZDw+dMd7sXkjb4Dl1F7XzRDqUt3wjfyb73OJjSAn1ADZHg==
+
 "@szmarczak/http-timer@^1.1.0":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@szmarczak/http-timer/-/http-timer-1.1.1.tgz#6402258dfe467532b26649ef076b4d11f74fb612"
